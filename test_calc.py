@@ -29,4 +29,3 @@ class TestCalcSolution(unittest.TestCase):
             str(context.exception),
             'Invalid operator. Can only use "+" or "-"'
         )
-
